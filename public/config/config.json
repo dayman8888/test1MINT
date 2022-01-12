@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0xdEE37748A3A2c3778440dF88f6B6c11180b1687D",
-  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0xdEE37748A3A2c3778440dF88f6B6c11180b1687D",
+  "CONTRACT_ADDRESS": "0x83A43AFAAB28727EF4E5fB14401F65f62d8b55CA",
+  "SCAN_LINK": "https://rinkeby.etherscan.io/address/0x83a43afaab28727ef4e5fb14401f65f62d8b55ca",
   "NETWORK": {
     "NAME": "Rinkeby",
     "SYMBOL": "ETH",
     "ID": 4
   },
-  "NFT_NAME": "EyePunk",
-  "SYMBOL": "EPunk",
-  "MAX_SUPPLY": 5000,
-  "WEI_COST": 10000000000000000,
-  "DISPLAY_COST": 0.01,
+  "NFT_NAME": "TestGlazki",
+  "SYMBOL": "TestGlazki",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 40000000000000000,
+  "DISPLAY_COST": 0.04,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/EyePunk",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/testglazki",
   "SHOW_BACKGROUND": true
 }
